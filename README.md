@@ -1,7 +1,12 @@
 # data-pipeline-etl-linguagens-utilizadas
 Projeto desenvolvido no curso "Python e APIs - conhecendo a biblioteca Requests" da Alura que resultou em um pipeline de dados para a extração de dados da API do Github, tratamento e carregamento desses dados no repositorio https://github.com/VictorSnts/linguagens-utilizadas-empresas
 
-### Curso - Python e APIs - conhecendo a biblioteca Requests
+## Curso - Python e APIs - conhecendo a biblioteca Requests
+### Dependencias para  execução:
+   - python==3.11.7
+   - pip==24.0
+   - pandas==2.0.0
+   - requests==2.28.2
 
 **Objetivo:**
 Este curso teve como objetivo fornecer um conhecimento sobre a biblioteca Requests aplicado a construção de pipelines de ETL de dados, combinando Python e os princípios da programação orientada a objetos.
