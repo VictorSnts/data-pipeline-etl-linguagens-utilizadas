@@ -8,10 +8,10 @@ Projeto desenvolvido no curso "Python e APIs - conhecendo a biblioteca Requests"
    - pandas==2.0.0
    - requests==2.28.2
 
-###**Objetivo:**
+### Objetivo:
 Este curso teve como objetivo fornecer um conhecimento sobre a biblioteca Requests aplicado a construção de pipelines de ETL de dados, combinando Python e os princípios da programação orientada a objetos.
 
-###**Habilidades Adquiridas:**
+### Habilidades Adquiridas:
    - Desenvolvimento de um pipeline ETL utilizando a biblioteca Requests do Python
    - Uso os recursos da biblioteca Requests para extrair dados da API do GitHub
    - Exploração e manipulação dos dados as requisições GET, POST, PUT e DELETE
